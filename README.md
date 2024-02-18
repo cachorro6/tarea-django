@@ -1,2 +1,2 @@
 # tarea-django
-intnto de crear mi aplicacion 
+intento de crear mi aplicacion 
